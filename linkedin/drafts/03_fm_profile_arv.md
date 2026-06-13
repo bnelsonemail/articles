@@ -9,3 +9,19 @@ Should the pipeline remain deeper for extended distances to avoid these high poi
 ---
 
 From a hydraulic perspective, the high points would require additional air release valves to prevent air accumulation and potential flow restrictions. This would increase both initial construction costs and ongoing maintenance requirements.
+
+
+
+## Reference Collection
+
+### AWWA
+- [ ]
+
+### APWA
+- [ ]
+
+### WEF
+- [ ]
+
+### Other Sources
+- [ ]

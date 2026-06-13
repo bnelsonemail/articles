@@ -164,3 +164,20 @@
 * Successful force main design requires balancing construction cost, maintainability, reliability, accessibility, and lifecycle performance.
 * Engineering judgment is often required to determine which trade-offs provide the greatest overall value throughout the life of the system.
 * Ultimately, the goal is to design a system that meets hydraulic requirements while minimizing long-term risks and costs associated with maintenance and operation.
+
+
+---
+
+## Reference Collection
+
+### AWWA
+- [ ]
+
+### APWA
+- [ ]
+
+### WEF
+- [ ]
+
+### Other Sources
+- [ ]
