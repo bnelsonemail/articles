@@ -131,6 +131,7 @@
 * Deep pipelines can be difficult and expensive to repair.
 * ARVs may provide easier access points but require periodic maintenance.
 * Accessibility should be considered over the entire life of the asset.
+* ARVs should be installed in flood protected areas, to ensure when a vacuum occurs, that only air enters the valve (Jones, 2008)
 
 ### Easement and Right-of-Way Constraints
 
@@ -180,4 +181,4 @@
 - [ ]
 
 ### Other Sources
-- [ ]
+*Pump Station Design*, Garr M. Jones, Robert L Sanks, George Tchobanoglous, Bayard E. Bosserman II. pg 5.28.
