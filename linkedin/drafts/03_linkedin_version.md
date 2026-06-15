@@ -85,4 +85,4 @@ Sometimes the right answer is a shallower profile with strategically placed air 
 
 The important part is making that decision intentionally, documenting the tradeoffs, and designing for the full life of the asset, not just the construction phase.
 
->I expanded on this topic in a longer version on my website, including construction constraints, maintenance access, lifecycle cost, and the operational tradeoffs utilities inherit after construction.
+>I expanded on this topic in a longer version on my website under the Technical Journal section, including construction constraints, maintenance access, lifecycle cost, and the operational tradeoffs utilities inherit after construction.

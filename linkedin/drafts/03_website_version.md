@@ -100,7 +100,7 @@ In constrained urban corridors, a shallower profile may also reduce impacts to t
 
 The disadvantage is that the utility may inherit more maintenance points.
 
-Each additional ARV becomes another asset that must be inspected and maintained. Depending on location, ARV maintenance may require traffic control, confined space considerations, odor management, corrosion-resistant materials, and periodic replacement.
+Each additional ARV becomes another asset that must be inspected and maintained. Depending on location, ARV maintenance may require traffic control, access considerations, odor management, corrosion-resistant materials, and periodic replacement.
 
 Additional ARVs also increase the number of appurtenances that can fail, clog, leak, corrode, or become inaccessible over time.
 
