@@ -1,6 +1,6 @@
-# Why I'm Building Cost Query Pro
+# Turning Historical Project Costs into Engineering Knowledge
 
-One of the most common questions in engineering is also one of the most difficult to answer:
+One of the most common questions in engineering is also one of the more difficult to answer:
 
 > What did a similar project actually cost?
 
@@ -10,7 +10,7 @@ The challenge is that the information usually exists somewhere, but rarely in a 
 
 Cost data may be scattered across bid tabulations, engineer's estimates, project reports, spreadsheets, PDFs, procurement documents, and agency archives. Over time, organizations accumulate large amounts of valuable historical information, but turning that information into actionable knowledge can be surprisingly difficult.
 
-As a result, answering what should be a simple question often becomes a time-consuming exercise in searching through old files and relying on institutional knowledge.
+As a result, answering what should be a simple question often becomes a time-consuming exercise in inter-office coordination with other Project Managers, searching through old files, and relying on institutional knowledge.
 
 ## The Gap Between Data and Knowledge
 
@@ -31,7 +31,7 @@ These questions are often answerable in theory, but obtaining the answers can re
 
 In many organizations, valuable cost information remains trapped inside documents rather than organized in a way that supports analysis and decision-making.
 
-## Why I Started Cost Query Pro
+## Why Cost Query Pro Began
 
 Cost Query Pro began as a personal software project focused on addressing this challenge.
 
@@ -47,7 +47,7 @@ At its core, the project is less about software and more about improving access 
 
 One area that particularly interests me is the intersection of infrastructure analytics and artificial intelligence.
 
-As cost databases grow, traditional filtering and reporting tools become increasingly valuable. However, there may also be opportunities to interact with engineering data more naturally.
+As cost databases grow, traditional filtering and reporting tools become increasingly valuable. However, there may also be opportunities to interact with engineering data more naturally.  By leveraging natural language processing and machine learning techniques, it may be possible to create a more conversational interface for exploring project costs.
 
 For example, instead of manually building queries, users could potentially ask questions such as:
 
@@ -73,4 +73,4 @@ Cost Query Pro is an attempt to bridge that gap by transforming historical proje
 
 The software itself is only part of the story.
 
-The larger goal is helping engineers spend less time searching for information and more time applying it.
+The larger goal is helping engineers spend less time searching for information and more time applying it with a solid and defensible understanding of project costs.
