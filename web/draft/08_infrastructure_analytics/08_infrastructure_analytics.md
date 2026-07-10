@@ -208,3 +208,7 @@ Infrastructure analytics isn't about predicting the future with certainty.
 It's about reducing uncertainty so engineers can make better decisions.
 
 Ultimately, better decisions lead to more reliable infrastructure, more efficient use of public resources, and better service for the communities we serve.
+
+>*Infrastructure analytics isn't about predicting the future with certainty. It's about reducing uncertainty so engineers can make better decisions.*
+
+#WaterResources #CivilEngineering #InfrastructureAnalytics #AssetManagement #Utilities #DataAnalytics #Engineering #DigitalWater
