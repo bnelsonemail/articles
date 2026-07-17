@@ -34,20 +34,26 @@ Over the life of the station, reliability is influenced by dozens of interconnec
 
 The failure of any one component can affect the performance of the entire station.
 
-That's one of the reasons I've become increasingly interested in infrastructure analytics.
+Understanding how those components interact over time is one of the reasons I've become increasingly interested in applying infrastructure analytics to water and wastewater systems.
 
 Utilities already collect enormous amounts of operational data, including pump run times, starts per hour, wet well levels, alarms, power consumption, and maintenance records.
 
-Viewed individually, these data points don't tell us much.
+Individually, these data points tell us what happened.
 
-Viewed together, they may reveal patterns that help identify problems before they become failures.
+Together, they can help explain why it's happening and identify patterns before they become failures.
 
 I don't see data analytics or machine learning replacing engineering judgment.
 
-I see them giving engineers another tool to better understand complex systems and make more informed decisions.
+I see them giving engineers another tool to better understand complex systems and make better decisions.
 
 Reliable infrastructure has always depended on good engineering.
 
-The future may depend on combining that engineering experience with better data.
+The future will depend on combining that engineering expertise with better operational data.
 
-What aspect of lift station reliability do you think is most often overlooked during design or operation?
+What do you think contributes more to lift station failures: equipment selection, maintenance, or operational decision-making?
+
+Engineering begins with calculations.
+Infrastructure analytics powers better decisions.
+
+Brice Nelson, PE, MBA
+Senior Project Manager | Infrastructure Analytics
