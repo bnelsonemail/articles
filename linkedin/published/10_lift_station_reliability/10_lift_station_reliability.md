@@ -1,6 +1,6 @@
 # Lift Station Reliability: It's More Than Just the Pumps
 
-One of the things I've come to appreciate after 25 years in water and wastewater engineering is that lift station reliability isn't determined by a single piece of equipment.
+One of the things I've come to appreciate after 25+ years in water and wastewater engineering is that lift station reliability isn't determined by a single piece of equipment.
 
 It's determined by the system.
 
