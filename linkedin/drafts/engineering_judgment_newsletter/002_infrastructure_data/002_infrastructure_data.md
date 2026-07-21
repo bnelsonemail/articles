@@ -18,7 +18,7 @@ Data, by itself, has little value. Useful data reduces uncertainty, provides con
 
 For municipalities, those decisions generally fall into two categories: understanding today's system and preparing for tomorrow's.
 
-## The Engineering Decision Lifecycle
+## The Infrastructure Decision Lifecycle
 
 Infrastructure data becomes valuable because it supports a continuous engineering decision-making process.
 
