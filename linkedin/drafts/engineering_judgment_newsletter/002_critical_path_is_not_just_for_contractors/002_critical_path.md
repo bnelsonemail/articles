@@ -14,12 +14,12 @@ A project schedule is much more than a list of activities and dates. It's a map 
 
 Some of the activities that frequently drive the critical path have nothing to do with construction itself.
 
-* Owner review and approval cycles
-* Environmental permitting
-* Utility coordination
-* Easement acquisition
-* Long-lead equipment procurement
-* Regulatory agency reviews
+Owner review and approval cycles
+Environmental permitting
+Utility coordination
+Easement acquisition
+Long-lead equipment procurement
+Regulatory agency reviews
 
 Any one of these activities can delay a project weeks or even months before the first piece of equipment is mobilized.
 
