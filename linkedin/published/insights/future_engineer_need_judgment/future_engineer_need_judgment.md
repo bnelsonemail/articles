@@ -32,5 +32,5 @@ That's why I believe the engineers who thrive over the next decade won't be thos
 
 They'll be the ones who combine engineering judgment with modern analytical tools to make better decisions.
 
-**Engineering begins with calculations.**  
-**Infrastructure analytics powers better decisions.**
+Engineering begins with calculations.
+Infrastructure analytics powers better decisions.
