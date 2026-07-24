@@ -10,7 +10,7 @@ And once I understood what it was, my first thought was:
 
 **Why don't more engineers know about this?**
 
-Despite the somewhat unusual name, Monte Carlo simulation isn't an AI technique or some new development in analytics. It's a well-established numerical method for analyzing uncertainty.
+Despite the somewhat unusual name, Monte Carlo simulation isn't an exotic vacation! Joking aside, it is not an AI technique or some new development in analytics. It's a well-established numerical method for analyzing uncertainty.
 
 The basic idea is surprisingly simple.
 
@@ -92,11 +92,11 @@ the analysis might provide something much more useful:
 
 **The simulation estimates a 30% probability that this asset will experience a failure within the next five years.**
 
-Now imagine performing that type of analysis across an entire utility system.
-
 Instead of prioritizing replacement based primarily on age, utilities could evaluate the probability and consequences of different outcomes across thousands of assets.
 
 That information could help answer a much more important capital planning question:
+Now imagine performing that type of analysis across an entire utility system.
+
 
 **Where can the next dollar of limited capital investment reduce the most risk?**
 
