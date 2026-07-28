@@ -1,4 +1,4 @@
-# A Worked Monte Carlo Example for Infrastructure
+# Beyond the Design Point: A Monte Carlo Example
 
 Last week, I wrote about Monte Carlo simulation and why I believe it's a tool more engineers should know about.
 
