@@ -24,7 +24,7 @@ It's to help engineers focus that judgment where it matters most.
 
 ## From Asset Age to Asset Risk
 
-Consider a utility responsible for thousands of water mains.
+Consider a utility responsible for hundreds or even thousands of miles of water main.
 
 A simple replacement strategy might prioritize pipes primarily according to age. Older infrastructure receives a higher priority because older assets are generally assumed to have a greater likelihood of failure.
 
