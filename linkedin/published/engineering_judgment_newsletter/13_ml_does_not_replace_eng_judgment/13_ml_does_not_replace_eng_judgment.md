@@ -6,12 +6,12 @@ Which ones should be replaced first?
 
 Traditionally, that decision might begin with relatively straightforward criteria:
 
-* Asset age
-* Material
-* Failure history
-* Maintenance records
-* Consequence of failure
-* Staff and operator experience
+Asset age
+Material
+Failure history
+Maintenance records
+Consequence of failure
+Staff and operator experience
 
 Those are all valuable inputs.
 
@@ -31,12 +31,12 @@ A model might identify a particular water main as having a high probability of f
 
 An engineer still needs to ask:
 
-* What happens if it fails?
-* Does it serve a hospital, school, or other critical customer?
-* Is there system redundancy?
-* Are there upcoming roadway improvements that create an opportunity to coordinate construction?
-* Would replacing a nearby main at the same time reduce future mobilization and restoration costs?
-* Are there operational issues or field conditions that aren't represented in the data?
+What happens if it fails?
+Does it serve a hospital, school, or other critical customer?
+Is there system redundancy?
+Are there upcoming roadway improvements that create an opportunity to coordinate construction?
+Would replacing a nearby main at the same time reduce future mobilization and restoration costs?
+Are there operational issues or field conditions that aren't represented in the data?
 
 And perhaps most importantly:
 
@@ -68,5 +68,5 @@ The organizations that get the most value from machine learning won't be the one
 
 They'll be the ones that successfully combine analytics, institutional knowledge, and engineering judgment to make better capital decisions.
 
-**Engineering begins with calculations.**
-**Infrastructure analytics powers better decisions.**
+Engineering begins with calculations.
+Infrastructure analytics powers better decisions.
