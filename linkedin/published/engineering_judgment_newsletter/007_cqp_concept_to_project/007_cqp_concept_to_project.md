@@ -30,10 +30,10 @@ Units that mean exactly the same thing may appear as:
 
 Descriptions aren't standardized either:
 
-**8" PVC WM**
-**8-IN PVC WATER MAIN**
-**8 inch PVC watermain**
-**8" C900 PVC**
+- **8" PVC WM**
+- **8-IN PVC WATER MAIN**
+- **8 inch PVC watermain**
+- **8" C900 PVC**
 
 To an experienced engineer or estimator, those may obviously describe comparable work.
 
