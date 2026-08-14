@@ -64,11 +64,8 @@ Risk-based asset management gives utilities a better framework for evaluating co
 
 At its simplest, risk considers two fundamental questions:
 
-**How likely is this asset to fail?**
-
-and
-
-**What happens if it does?**
+1. How likely is this asset to fail?
+2. What happens if it does?
 
 That helps move capital planning beyond age-based replacement programs and lists of assets in poor condition.
 
@@ -185,5 +182,5 @@ Because capital planning isn't about perfection.
 
 **It's about making the best possible infrastructure decisions with the resources available.**
 
-> **Engineering begins with calculations.**
-> **Infrastructure analytics powers better decisions.**
+Engineering begins with calculations.
+Infrastructure analytics powers better decisions.
