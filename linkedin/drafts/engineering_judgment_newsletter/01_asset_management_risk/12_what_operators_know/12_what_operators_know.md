@@ -1,6 +1,6 @@
 # What Operators Know That Asset Databases Don't
 
-One thing I've come to appreciate after 25 years in water and wastewater engineering is that not all infrastructure knowledge lives in a database.
+One thing I've come to appreciate after 25+ years in water and wastewater engineering is that not all infrastructure knowledge lives in a database.
 
 Utilities invest significant time and resources maintaining GIS systems, asset management software, maintenance records, and SCADA data. Those systems are essential for understanding what assets we own, where they are located, and how they've been maintained.
 
