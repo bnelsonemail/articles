@@ -153,13 +153,37 @@ The goal is **MANAGED RISK**.
 
 That means understanding where vulnerabilities exist, understanding their consequences, evaluating the available interventions, and deliberately deciding where limited capital should be invested.
 
+## TURNING ASSET RISK INTO A CAPITAL STRATEGY
+
+For many municipalities, the challenge isn't recognizing that infrastructure risk exists. It's developing a consistent process for evaluating that risk and connecting it to capital decisions.
+
+That process can be developed internally, or municipalities can work with engineering consultants to develop asset management and risk assessment plans that provide a structured framework for evaluating infrastructure needs.
+
+That work may include organizing and validating asset data, establishing condition and criticality criteria, evaluating probability and consequence of failure, identifying potential interventions, estimating project costs, and ultimately translating those findings into capital priorities.
+
+But the most effective approach isn't for a consultant to simply produce another report.
+
+Operators, maintenance staff, engineers, utility leadership, and consultants each bring different knowledge to the process. Asset databases may show age, material, maintenance history, and documented failures. Operators often understand vulnerabilities, recurring problems, and operational consequences that aren't captured in those records.
+
+Bringing those perspectives together creates a more complete understanding of infrastructure risk and a more defensible basis for capital investment.
+
+For municipalities beginning to formalize asset management, outside expertise can also help establish a repeatable process that utility staff can continue to use, update, and improve over time.
+
+The objective should be more than producing an asset management plan.
+
+**It should be building a decision-making framework that helps the utility understand its risks, evaluate its options, and make more defensible capital investment decisions.**
+
+## MAKING TRADEOFFS EXPLICIT
+
 A strong capital plan doesn't pretend every problem can be solved.
 
-It identifies the investments that matter most and explains why they deserve priority.
+It identifies the investments that matter most, explains why they deserve priority, and makes the tradeoffs behind those decisions visible.
+
+That matters when engineers and utility leaders have to explain why one project was funded while another was deferred. A defensible capital plan should be able to connect those decisions back to risk, reliability, cost, operational needs, and the priorities of the utility.
 
 Because capital planning isn't about perfection.
 
 **It's about making the best possible infrastructure decisions with the resources available.**
 
->**Engineering begins with calculations.**
->**Infrastructure analytics powers better decisions.**
+> **Engineering begins with calculations.**
+> **Infrastructure analytics powers better decisions.**
