@@ -281,7 +281,7 @@ disrupting the rest of the financial plan.
 
 ---
 
-## Then We Can Talk About Investing
+## Now We Can Talk About Investing
 
 Eventually the financial system reaches an interesting point.
 
