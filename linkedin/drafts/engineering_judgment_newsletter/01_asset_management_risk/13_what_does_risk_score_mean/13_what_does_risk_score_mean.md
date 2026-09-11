@@ -32,7 +32,7 @@ It is the output of a model.
 
 At its simplest, infrastructure risk is often represented as:
 
-**Risk = Probability of Failure × Consequence of Failure**
+>**Risk = Probability of Failure × Consequence of Failure**
 
 That framework is useful because it forces us to consider two very different questions:
 
