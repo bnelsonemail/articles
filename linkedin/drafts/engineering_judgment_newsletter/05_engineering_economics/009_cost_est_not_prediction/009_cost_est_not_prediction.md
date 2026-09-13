@@ -12,7 +12,7 @@ The problem begins when that estimate quietly becomes something it was never int
 
 **a prediction.**
 
-## The Number Looks More Certain Than It Is
+## THE NUMBER LOOKS MORE CERTAIN THAN IT IS
 
 Suppose an early estimate puts a project at $12.4 million.
 
@@ -34,7 +34,7 @@ That does not necessarily mean the earlier estimate was wrong.
 
 It means it was an estimate.
 
-## An Estimate Should Tell Us What We Know
+## AN ESTIMATE SHOULD TELL US WHAT WE KNOW
 
 A useful estimate does more than produce a number.
 
@@ -57,7 +57,7 @@ The purpose of estimating is therefore not simply to calculate a number.
 
 It is to support a decision.
 
-## What If the Estimate Were a Range Instead of a Number?
+## WHAT IF THE ESTIMATE WERE A RANGE INSTEAD OF A NUMBER?
 
 One way to think differently about an estimate is to stop treating every uncertain input as though it has one known value.
 
@@ -95,7 +95,7 @@ to asking:
 
 That is a very different decision.
 
-## Monte Carlo Does Not Eliminate Uncertainty
+## MONTE CARLO DOES NOT ELIMINATE UNCERTAINTY
 
 There is an important limitation.
 
@@ -117,7 +117,7 @@ The value of simulation is that it forces us to think explicitly about uncertain
 
 Those are judgment questions before they are statistical questions.
 
-## Forecasting Has the Same Problem
+## FORECASTING HAS THE SAME PROBLEM
 
 This challenge is not unique to engineering.
 
@@ -145,7 +145,7 @@ But whether the model is estimating construction cost, future revenue, cash flow
 
 **The model does not remove uncertainty. It helps us understand it.**
 
-## Precision Is Not the Same as Accuracy
+## PRECISION IS NOT THE SAME AS ACCURACY
 
 Modern tools make it very easy to produce impressive-looking numbers.
 
@@ -165,7 +165,7 @@ The assumptions underneath it are still uncertain.
 
 It is part of understanding what the analysis actually means.
 
-## Engineering Judgment
+## ENGINEERING JUDGMENT
 
 A cost estimate is not a promise about what a project will cost.
 
@@ -191,5 +191,5 @@ The goal is to understand what we know, identify what we do not know, quantify u
 
 **That is judgment being applied to uncertainty.**
 
-> Engineering begins with calculations.
-> Better decisions require judgment.
+Engineering begins with calculations.
+Better decisions require judgment.
