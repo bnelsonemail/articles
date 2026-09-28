@@ -30,7 +30,7 @@ Regulatory requirements may be approaching.
 
 By the time an RFP reaches the street, the client has often been thinking about the underlying problem for quite some time.
 
-The firms that understand that problem early have an advantage.
+The firms that have been listening understand the context behind the project.
 
 Not because they know what the RFP will say.
 
