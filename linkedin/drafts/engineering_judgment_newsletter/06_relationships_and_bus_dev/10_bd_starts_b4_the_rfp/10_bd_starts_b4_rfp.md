@@ -133,3 +133,6 @@ The interview matters.
 But the business development process didn't begin when the RFP was posted.
 
 **It began with every interaction that came before it.**
+
+> Engineering delivers projects.
+> Leadership builds lasting value.
