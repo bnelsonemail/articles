@@ -185,6 +185,55 @@ None of those activities requires a proposal.
 
 They require good client service.
 
+## FROM CONSULTANT TO TRUSTED ADVISOR
+
+There is a difference between being a consultant a client hires and becoming an advisor a client trusts.
+
+The first can happen with a contract.
+
+The second takes time.
+
+Trusted advisor status isn't created by a successful proposal or a good presentation. It develops through repeated interactions where the client learns that your advice is useful, your commitments mean something, and your recommendations are based on what is best for their organization rather than what creates the next assignment.
+
+That trust is accumulated gradually.
+
+You deliver what you promised.
+
+You raise difficult issues early instead of waiting until they become problems.
+
+You understand the client's constraints, including budget, operations, staffing, politics, schedule, and risk.
+
+You are willing to recommend a smaller solution when a larger project isn't necessary.
+
+Sometimes you tell the client something they may not want to hear.
+
+And occasionally, the best advice you can give is that they don't need your services at all.
+
+None of those interactions may produce immediate revenue.
+
+But over time, they answer a much more important question for the client:
+
+>Can I trust this person's judgment?
+
+That is where the relationship begins to change.
+
+Instead of calling only when a defined project needs engineering services, the client may begin calling earlier:
+
+> We're considering this. 
+> What do you think?
+
+That conversation is fundamentally different.
+
+You are no longer only responding to a scope.
+
+You are helping the client think through the problem before the scope exists.
+
+That is trusted advisor status.
+
+And it cannot be manufactured during a three-week proposal period.
+
+It has to be earned over time.
+
 ## UNDERSTANDING THE CAPITAL PROGRAM CHANGES THE CONVERSATION
 
 For municipal infrastructure consultants, one of the most valuable sources of context is the client's capital program.
